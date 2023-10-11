@@ -1,0 +1,162 @@
+body{
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  line-height: 2;
+}
+
+h1{
+  margin: 0;
+  font-family: sacramento,sans-serif;
+  font-size: 100px;
+  color: #66BFBF;
+  padding-top: 100px;
+}
+
+span{
+  font-style: italic;
+  text-decoration: underline;
+}
+
+hr{
+  margin: 0;
+  border: 0;
+}
+
+.pro{
+  font-size: 30px;
+  color: #2F8F9D;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top{
+  background-color: #E4F9F5;
+  text-align: center;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle{
+  padding-top: 30px;
+}
+
+.intro{
+  text-align: center;
+}
+
+.education{
+  text-align: center;
+  padding-top: 30px;
+}
+
+.tc{
+  position: absolute;
+  right: 4.25%;
+  top: 12.25%;
+  height: 10%;
+}
+
+.bc{
+  position: absolute;
+  left: 8.6875%;
+  top:50.5%;
+  height: 10%;
+}
+
+.profile{
+  height: 200px;
+  border: solid 5px;
+  border-radius: 75%;
+  color: black;
+}
+
+.profile:hover{
+  color: silver;
+}
+
+.IIIT{
+
+  height: 150px;
+
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  float: left;
+  margin: 0 90px;
+  padding-left: 90px;
+  position: relative;
+  left: 20px;
+  top: 40px;
+}
+
+.Btech{
+  padding-top: 30px;
+  text-align: center;
+  width: 500px;
+  margin: 0 auto;
+}
+
+.nryn{
+  height: 200px;
+  float: right;
+  position: relative;
+  right: 200px;
+  top: 50px;
+}
+
+.XII{
+  padding-top: 50px;
+  width: 500px;
+  margin-left: 425px;
+}
+
+.achieve{
+  text-align: center;
+  padding-top: 30px;
+}
+
+.ach{
+  height: 200px;
+  width: 400px;
+}
+
+.bottom{
+  padding-top: 30px;
+  text-align: center;
+  background-color: #11999E;
+  padding-bottom: 30px;
+  color: black;
+
+}
+
+.cont{
+  margin-right: 50px;
+  margin-top: 0;
+  color: grey;
+  text-decoration: none;
+}
+
+.cont:hover{
+  color: white;
+}
+
+.msg{
+  margin-left: 50px;
+  margin-top: 0;
+  color: grey;
+  text-decoration: none;
+}
+
+.msg:hover{
+  color: white;
+}
+
+.copy{
+  margin-top: 20px;
+}
+
+.gif{
+  text-align: left;
+  position: fixed;
+  margin-top: 10px;
+  margin-left: 20px;
+}
